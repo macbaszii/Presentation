@@ -1,10 +1,10 @@
 PODS:
   - Cartography (0.5.0)
   - Nimble (1.0.0-rc.1)
-  - Pages (0.6.1)
-  - Presentation (1.0):
-    - Cartography (~> 0.5.0)
-    - Pages (~> 0.6.1)
+  - Pages (0.6.3)
+  - Presentation (2.1.0):
+    - Cartography
+    - Pages (~> 0.6.2)
   - Quick (0.3.1)
 
 DEPENDENCIES:
@@ -19,8 +19,10 @@ EXTERNAL SOURCES:
 SPEC CHECKSUMS:
   Cartography: 774e5cc446f5a6bca5d4345c5aa6af9a1fe74dc6
   Nimble: 23f1dbddf1706172c7d740430858e5dfa93d997a
-  Pages: 515a8ec7396cfb7cdacc28c0beceb2ce39c065cb
-  Presentation: 47da74597602fa2555292d7c1d48e85eb503463b
+  Pages: 71e80bc64040f1176297c327d080d80b7e74b38c
+  Presentation: b2a7fd95329ada58be129da65dbbdf6b39259772
   Quick: 824572d3d198d51e52cf4aa722cebf7e59952a35
 
-COCOAPODS: 0.37.2
+PODFILE CHECKSUM: 74349320f256b64f59084c01341ee1d94b51fac2
+
+COCOAPODS: 1.0.1
